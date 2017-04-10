@@ -14,15 +14,12 @@
     tools:showIn="@layout/activity_main">
 
     <TextView
+<<<<<<< HEAD
         android:text="TextView_new"
         android:textColor="#0000FF"
+=======
+>>>>>>> parent of dd7f6ff... change text
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="25dp"
-        android:layout_marginStart="25dp"
-        android:layout_marginTop="34dp"
-        android:id="@+id/textView" />
+        android:text="Hello World!" />
 </RelativeLayout>
